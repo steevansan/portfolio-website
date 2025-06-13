@@ -7,4 +7,5 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs25\fsmilli12573 \cf2 \expnd0\expndtw0\kerning0
-Flask==2.0.1}
+Flask==2.0.1
+gunicorn==20.1.0}
